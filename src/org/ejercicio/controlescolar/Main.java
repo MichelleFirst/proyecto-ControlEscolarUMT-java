@@ -4,5 +4,6 @@ public class Main{
         Persona p = new Persona("Ana",21);
         System.out.println("Hola, "+ p + "!");
         //Persona p = new Persona("Ana",21);
+        //System.out.println("Hola, "+ p + "!");
     }
 }
